@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Sabarinathan Raghupathi 👋
 
-<!--
-**sarag5/sarag5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal GitHub profile! I am a passionate Software Developer with a love for creating innovative solutions. Here you can find some of my projects and learn more about my skills and interests.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Backend Development and ML.
+- 🌱 I’m learning ML and MLOPS.
+- 👯 I’m looking to collaborate on Machine Learning.
+- 📫 How to reach me: sabarinathan_19@proton.me.
+
+## Skills
+
+- **Programming Languages**: streamlit, powershell, Python, Go
+- **Frameworks & Libraries**: fastapi
+- **Tools & Technologies**: Git, Docker, GCP. K8S
+- **Databases**: MongoDB
+
+## Contact Me
+
+Feel free to reach out if you want to connect or collaborate!
+
+- **Email**: sabarinathan_19@proton.me
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sabarinathan raghupathi)
