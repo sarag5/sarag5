@@ -21,4 +21,4 @@ Welcome to my personal GitHub profile! I am a passionate Software Developer with
 Feel free to reach out if you want to connect or collaborate!
 
 - **Email**: sabarinathan_19@proton.me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sabarinathan raghupathi)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sabarinathan_raghupathi)
